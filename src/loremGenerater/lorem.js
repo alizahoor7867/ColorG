@@ -1,0 +1,17 @@
+export const lorem = [
+  "        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam doloribus reiciendis delectus temporibus, ab facere quam deserunt accusantium excepturi at",
+  "        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam doloribus reiciendis delectus temporibus, ab facere quam deserunt accusantium excepturi at",
+  "        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam doloribus reiciendis delectus temporibus, ab facere quam deserunt accusantium excepturi at",
+  "        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam doloribus reiciendis delectus temporibus, ab facere quam deserunt accusantium excepturi at",
+  "        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam doloribus reiciendis delectus temporibus, ab facere quam deserunt accusantium excepturi at",
+  "        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam doloribus reiciendis delectus temporibus, ab facere quam deserunt accusantium excepturi at",
+  "        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam doloribus reiciendis delectus temporibus, ab facere quam deserunt accusantium excepturi at",
+  "        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam doloribus reiciendis delectus temporibus, ab facere quam deserunt accusantium excepturi at",
+  "        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam doloribus reiciendis delectus temporibus, ab facere quam deserunt accusantium excepturi at",
+  "        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam doloribus reiciendis delectus temporibus, ab facere quam deserunt accusantium excepturi at",
+  "        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam doloribus reiciendis delectus temporibus, ab facere quam deserunt accusantium excepturi at",
+  "        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam doloribus reiciendis delectus temporibus, ab facere quam deserunt accusantium excepturi at",
+  "        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam doloribus reiciendis delectus temporibus, ab facere quam deserunt accusantium excepturi at",
+  "        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam doloribus reiciendis delectus temporibus, ab facere quam deserunt accusantium excepturi at",
+  "        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam doloribus reiciendis delectus temporibus, ab facere quam deserunt accusantium excepturi at",
+];
